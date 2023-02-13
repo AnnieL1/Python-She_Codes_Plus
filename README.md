@@ -5,7 +5,7 @@ This project was created in Python as part of the She Codes Plus bootcamp Python
 ## Features ##
     Weather.py includes the following:
         1. Function that converts an ISO formatted date into a human readable format.
-        2. Function that converts a temperature from farenheit to celcius.
+        2. Function that converts a temperature from Fahrenheit to Celsius.
         3. Function that calculates the mean value from a list of numbers.
         4. Function that reads a CSV file and stores the data in a list.
         5. Function that calculates the minimum value in a list of numbers.

@@ -1,9 +1,9 @@
 # Weather project #
 
-This project was created in Python as part of the She Codes Plus bootcamp Python module.
+This project was created in Python as part of the She Codes Plus bootcamp Python module. It involved completing 8x functions which passed when test scripts were run.
 
 ## Features ##
-Weather.py includes the following:
+    Weather.py includes the following:
         1. Function that converts an ISO formatted date into a human readable format.
         2. Function that converts a temperature from farenheit to celcius.
         3. Function that calculates the mean value from a list of numbers.
